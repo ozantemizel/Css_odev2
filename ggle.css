@@ -1,0 +1,20 @@
+center {
+    margin: auto;
+}
+.box {
+    margin: auto;
+    width: 90%;
+    
+}
+.content {
+
+    float: left;
+    height: 100px;
+    width: 33%;
+    height: 90px;
+    margin-right: 2px;
+    padding-top: 15px;
+}
+.footer {
+    margin: 150px auto 0;
+}
